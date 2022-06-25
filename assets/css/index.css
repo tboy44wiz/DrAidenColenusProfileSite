@@ -37686,7 +37686,7 @@ _:future {
     }
 
     .elementor-6 .elementor-element.elementor-element-6e36cdf8>.elementor-background-overlay {
-        background-image: url("../../../assets/images/page2-img2.png");
+        background-image: url("../images/page2-img2.png");
         background-position: top center;
         background-repeat: repeat-x;
         background-size: cover;
@@ -37876,7 +37876,7 @@ _:future {
 
     .elementor-11 .elementor-element.elementor-element-35b2af4c:not(.elementor-motion-effects-element-type-background),
     .elementor-11 .elementor-element.elementor-element-35b2af4c>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-        background-image: url("../../../assets/images/rodape-big.png");
+        background-image: url("../images/rodape-big.png");
         background-position: bottom center;
         background-repeat: repeat-x;
         background-size: cover
@@ -38042,7 +38042,7 @@ _:future {
 
     @media(max-width:767px) {
         .elementor-11 .elementor-element.elementor-element-35b2af4c>.elementor-background-overlay {
-            background-image: url("../../../assets/images/cropped-pic.png")
+            background-image: url("../images/cropped-pic.png")
         }
 
         .elementor-11 .elementor-element.elementor-element-35b2af4c>.elementor-shape-top svg {
